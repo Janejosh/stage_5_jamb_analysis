@@ -14,13 +14,13 @@ This project investigates the increasing rate of failure in the Nigerian Joint A
 
 ## 🗂️ Repository Contents
 
-| Folder/File | Description |
-|-------------|-------------|
-| `data/raw_jamb_data.csv` | Raw survey data collected via Google Forms |
-| `data/cleaned_jamb_data.csv` | Cleaned and transformed dataset used for analysis |
-| `notebook/jamb_analysis_notebook.ipynb` | Full EDA, modeling, and forecasting in Jupyter Notebook |
-| `docs/JAMB_Analysis_Report.docx` | Comprehensive project report with methodology, findings, and recommendations |
-| `docs/JAMB_Predictive_Analysis_Report.docx` | Project workflow, tools used, key decisions, and challenges |
+| Description |
+|-------------|
+| Raw survey data collected via Google Forms |
+| Cleaned and transformed dataset used for analysis |
+| Full EDA, modeling, and forecasting in Jupyter Notebook |
+| Comprehensive project report with methodology, findings, and recommendations |
+| Project workflow, tools used, key decisions, and challenges |
 
 ---
 
